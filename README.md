@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("/path/to/custom.css"))
+(setq markdown-css-paths '("/path/to/style.css"))
 
 # PAC3: Visionant el futur amb les ulleres de Manovich: <br> Redescobrint la hibridació.
 
@@ -39,7 +39,7 @@ Amb els actuals avanços tecnològics i de la digitalització, han permès la un
 
  <img src="https://gorealgames.com/wp-content/uploads/2022/05/unity-editor-1.jpeg"  width="420px" height="250px" >
 
-La pla
+La plataforma Unity es una eina per al desenvolupament de videojocs en 2D o 3D, pero ha anat mes enlla per convertir-se en una eina versatil per a la creació d'entorns digitals interectius.
 
 La creació de móns virtuals ha transcendit les seves pròpies fronteres, obrint pas a noves oportunitats i experiències a través de la intersecció digital. En aquesta revolució, emergeix com una figura destacada Unity, una plataforma que va més enllà del simple desenvolupament de jocs per convertir-se en una eina versàtil per a la creació d'entorns digitals interactius.
 
