@@ -1,3 +1,5 @@
+(setq markdown-css-paths '("/path/to/custom.css"))
+
 # PAC3: Visionant el futur amb les ulleres de Manovich: <br> Redescobrint la hibridació.
 
 Autor: David Badia Barbe
@@ -12,36 +14,8 @@ Data: 09/12/2023
 
 ## Introducció.
 
-Format i pautes per al lliurament 
-- Enviament d'un fitxer PDF que conté les dades bàsiques per a identificació de l'estudiant, un descriptor amb els dos casos estudiats i l'enllaç URL al repositori on es troba el contingut de la pràctica.
-
-- A més, caldrà publicar l'enllaç a l'espai Github a l'ESPAI DEBAT DE L'AULA, per a que la resta de companys/es puguin comentar i/o valorar-ne el resultat.
-
-Per a la citació correcta de les fonts:
-
- http://www.uoc.edu/serveilinguistic/criteris/convencions/referencies_bib.html
-
-https://markdown.es/
-- Redactar l'assaig en un fitxer readme.md (en format Markdown) descrivint aquests exemples amb "les ulleres de Manovich" i una extensió aproximadament de 500 paraules cadascuna.
-
-- Incloure els enllaços i recursos multimèdia necessaris dins el repositori.
-
-
-La hibridació en el context dels nous mitjans es refereix a la fusió o integració de diferents formes de mitjans de comunicació i tecnologies. Aquest fenomen reflecteix la convergència de diverses plataformes i dispositius que, anteriorment, funcionaven de manera independent. La hibridació és un resultat directe dels avanços tecnològics i la digitalització, que han permès la combinació de mitjans i la creació de noves formes d'expressió i comunicació.
-
-Algunes formes de hibridació en els nous mitjans inclouen:
-
-    Mitjans Digitals Interactius: La hibridació pot ser evident en la interactivitat dels mitjans digitals, on els usuaris poden participar activament i influir en el contingut mitjançant funcions com comentaris, valoracions o contribucions creatives.
-
-    Convergència de Mitjans: La convergència implica la integració de diferents mitjans (text, imatge, vídeo, àudio) en una única plataforma o dispositiu. Per exemple, smartphones i tauletes permeten la consumició de textos, vídeo, i àudio tot en un mateix dispositiu.
-
-    Realitat Augmentada (RA) i Realitat Virtual (RV): La hibridació és evident en l'ús de la RA i la RV, on els elements del món real es combinen amb elements virtuals per crear noves experiències immersives.
-
-    Transmèdia: A través de la hibridació, s'han desenvolupat narratives transmèdia que es despleguen a través de múltiples plataformes i mitjans, com ara pel·lícules, llibres, videojocs i xarxes socials, creant una experiència de consum completa.
-
-    Mitjans Socials: La integració de diferents formes de contingut (imatges, text, vídeo) en plataformes de mitjans socials és un exemple de hibridació, ja que permet als usuaris compartir i consumir diverses formes de contingut en un sol lloc.
-
-La hibridació en els nous mitjans no només transforma la manera com consumim la informació i el contingut, sinó que també pot tenir un impacte significatiu en la producció, distribució i participació dels usuaris en l'ecosistema mediàtic. Aquesta integració continua evolucionant a mesura que les tecnologies i les pràctiques culturals canvien i es desenvolupen.
+La hibridació en els nous mitjans es refereix a la fusió de diferents formes de mitjans de comunicació i tecnologies.
+Amb els actuals avanços tecnològics i de la digitalització, han permès la unió de diverses plataformes que anteriorment funcionaven de manera independent.
 
 
 
@@ -65,8 +39,7 @@ La hibridació en els nous mitjans no només transforma la manera com consumim l
 
  <img src="https://gorealgames.com/wp-content/uploads/2022/05/unity-editor-1.jpeg"  width="420px" height="250px" >
 
- 
-   Unity: Creant Universos Digitals a la Punta dels Dits
+La pla
 
 La creació de móns virtuals ha transcendit les seves pròpies fronteres, obrint pas a noves oportunitats i experiències a través de la intersecció digital. En aquesta revolució, emergeix com una figura destacada Unity, una plataforma que va més enllà del simple desenvolupament de jocs per convertir-se en una eina versàtil per a la creació d'entorns digitals interactius.
 
