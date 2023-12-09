@@ -97,11 +97,11 @@ En resum, Unity no és simplement una eina de desenvolupament, sinó un portal c
 ### Referencies i bibliografía.
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+  
 * **The Dark Pictures: Man of Medan**, Wikipedia: l’enciclopèdia lliure, [consulta: 05/10/2023]. Disponible a:
-  <a id="custom-anchor" href="https://es.wikipedia.org/wiki/The_Dark_Pictures:_Man_of_Medan">This is an anchor</a>
+https://es.wikipedia.org/wiki/The_Dark_Pictures:_Man_of_Medan
 
-
-* **Unity**, Wikipedia: l’enciclopèdia lliure, [consulta: 05/10/2023]. Disponible a:
+* **Unity**, Wikipedia: l’enciclopèdia lliure, [consulta: 05/10/2023]. Disponible a: <br>
 https://es.wikipedia.org/wiki/Unity_(motor_de_videojuego)
 
 
