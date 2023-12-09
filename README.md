@@ -33,9 +33,9 @@ Amb els actuals avanços tecnològics i de la digitalització, han permès la un
 <details>
  <summary>Unity.</summary>
  <br>
- <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"  width="450px" height="250px" >
+ <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"  width="400px" height="180px" >
 
- <img src="https://gorealgames.com/wp-content/uploads/2022/05/unity-editor-1.jpeg"  width="420px" height="250px" >
+ <img src="https://gorealgames.com/wp-content/uploads/2022/05/unity-editor-1.jpeg"  width="420px" height="180px" >
 
 La plataforma Unity es una eina per al desenvolupament de videojocs en 2D o 3D, pero ha anat mes enlla per convertir-se en una eina versatil per a la creació d'entorns digitals interectius.
 
