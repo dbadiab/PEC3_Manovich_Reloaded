@@ -1,16 +1,14 @@
-(setq markdown-css-paths '("/path/to/style.css"))
-
 # PAC3: Visionant el futur amb les ulleres de Manovich: <br> Redescobrint la hibridació.
 
-Autor: David Badia Barbe
-
+<img src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHUyMzQ0NTMxLWltYWdlLWt3dnk3bndtLmpwZw.jpg">
+ 
+Autor: David Badia Barbe<br>
+Grau: Grau en Tècniques d'Interacció Digital i Multimèdia<br>
+Assignatura: Cultura Digital<br>
 Data: 09/12/2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
-
-
-
+<hr>
 
 ## Introducció.
 
@@ -76,6 +74,8 @@ https://es.wikipedia.org/wiki/The_Dark_Pictures:_Man_of_Medan
 
 * **Unity**, Wikipedia: l’enciclopèdia lliure, [consulta: 05/10/2023]. Disponible a: <br>
 https://es.wikipedia.org/wiki/Unity_(motor_de_videojuego)
+
+https://www.rawpixel.com/image/5925774/photo-image-background-public-domain-blue
 
 
 ----
