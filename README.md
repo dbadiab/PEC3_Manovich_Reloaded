@@ -7,7 +7,6 @@ Grau: Grau en Tècniques d'Interacció Digital i Multimèdia<br>
 Assignatura: Cultura Digital<br>
 Data: 09/12/2023
 
-
 <hr>
 
 ## Introducció.
@@ -16,28 +15,26 @@ La hibridació en els nous mitjans es refereix a la fusió de diferents formes d
 Amb els actuals avanços tecnològics i de la digitalització, han permès la unió de diverses plataformes que anteriorment funcionaven de manera independent.
 
 
-
 ## Re-descobrint l'hibridació: 
+
 <details>
  <summary>Sèrie de videojocs The Dark Pictures.</summary>
- <br> 
- 
+ <br>  
  <img src="https://cdn11.bigcommerce.com/s-k0hjo2yyrq/images/stencil/1280x1280/products/1403/1037/The_Dark_Pictures_Anthology_Season_one_Packshot__13296.1680082390.jpg?c=1"  width="200px" height="250px" >
 
  <img src="https://i.blogs.es/fd8f41/little-hope/1366_2000.jpeg"  width="420px" height="250px" >
  
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </details>
 
 
 <details>
  <summary>Unity.</summary>
  <br>
- <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"  width="400px" height="180px" >
+ <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"  width="400px" height="180px">
 
- <img src="https://gorealgames.com/wp-content/uploads/2022/05/unity-editor-1.jpeg"  width="420px" height="180px" >
+ <img src="https://gorealgames.com/wp-content/uploads/2022/05/unity-editor-1.jpeg"  width="420px" height="180px">
 
-La plataforma Unity es una eina per al desenvolupament de videojocs en 2D o 3D, pero ha anat mes enlla per convertir-se en una eina versatil per a la creació d'entorns digitals interectius.
+La plataforma Unity es una eina per al desenvolupament de videojocs en 2D o 3D, pero ha anat mes enlla, amb el temps s'ha convertit en una eina versatil per a la creació d'entorns digitals interectius i aplicacions.
 
 La creació de móns virtuals ha transcendit les seves pròpies fronteres, obrint pas a noves oportunitats i experiències a través de la intersecció digital. En aquesta revolució, emergeix com una figura destacada Unity, una plataforma que va més enllà del simple desenvolupament de jocs per convertir-se en una eina versàtil per a la creació d'entorns digitals interactius.
 
