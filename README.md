@@ -9,10 +9,18 @@ Data: 09/12/2023
 
 <hr>
 
+Com es pot reconèixer una d'aquestes hibridacions? Com distingir-ne d'altres (multimèdia/remediació)?
+Cas escollit (Com funciona i mitjans que incorpora)
+Quina mena d'hibridació es pot identificar en aquest cas? (segons Manovich)
+Valoracions personals i bibliografia
+
+
 ## Introducció.
 
 La hibridació en els nous mitjans es refereix a la fusió de diferents formes de mitjans de comunicació i tecnologies.
 Amb els actuals avanços tecnològics i de la digitalització, han permès la unió de diverses plataformes que anteriorment funcionaven de manera independent.
+
+L'objectiu de la hibridació es crear una experiencia mes dinamica, podent adaptarse a les necessitats dels usuaris.
 
 
 ## Re-descobrint l'hibridació: 
