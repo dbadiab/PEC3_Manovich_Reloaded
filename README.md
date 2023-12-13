@@ -23,6 +23,23 @@ Amb els actuals avanços tecnològics i de la digitalització, han permès la un
 L'objectiu de la hibridació es crear una experiencia mes dinamica, podent adaptarse a les necessitats dels usuaris.
 
 
+Distinguir entre diferents tipus de mitjans en un context d'hibridació pot ser un repte, ja que la fusió de formats tendeix a esborrar les fronteres clàssiques. Tanmateix, hi ha algunes característiques que ens poden ajudar a identificar els diferents mitjans en un entorn híbrid:
+
+1. **Format Visual**: Els mitjans visuals inclouen televisió, cinema, i vídeos en línia. Són fàcilment reconeixibles pel seu enfocament en imatges en moviment. En un entorn híbrid, els vídeos poden estar integrats en pàgines web o en publicacions de xarxes socials.
+
+2. **Format Textual**: Això inclou premsa escrita, llibres, revistes, i articles en línia. Tot i que en l'era digital els textos poden estar acompanyats de multimèdia, la presència dominant de paraules escritas és un indicador clar d'aquest mitjà.
+
+3. **Format Àudio**: Inclou la ràdio, podcasts, i arxius d'àudio en línia. En un entorn híbrid, l'àudio pot estar incrustat en pàgines web o pot ser part d'una experiència multimèdia que combina àudio, text, i visuals.
+
+4. **Multimèdia**: Això es refereix a la combinació de diferents formats, com ara text, imatges, vídeo, i àudio, en una única plataforma. Exemples són les notícies en línia amb vídeos incrustats, galeries de fotos amb descripcions textuales, o pàgines web interactives que combinen tots aquests elements.
+
+5. **Xarxes Socials**: Aquestes plataformes poden combinar text, imatge, vídeo, i elements interactius. Són úniques en la seva capacitat d'engendrar interacció i conversa entre usuaris.
+
+6. **Interactivitat**: Un dels aspectes clau de l'hibridació és la interactivitat, especialment en plataformes digitals. Els mitjans interactius permeten als usuaris influir en el contingut o en el curs de la narrativa, com en els videojocs o en certes aplicacions web.
+
+Per a una anàlisi més detallada, és útil observar no només el format del contingut, sinó també el context en què es presenta i la manera com els usuaris interactuen amb ell. En el món digital actual, la línia entre aquests diferents mitjans s'està fent cada vegada més difusa, donant lloc a noves formes de comunicació i expressió.
+
+
 ## Re-descobrint l'hibridació: 
 
 <details>
