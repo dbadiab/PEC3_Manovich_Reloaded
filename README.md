@@ -31,6 +31,47 @@ L'objectiu de la hibridació es crear una experiencia mes dinamica, podent adapt
  <img src="https://cdn11.bigcommerce.com/s-k0hjo2yyrq/images/stencil/1280x1280/products/1403/1037/The_Dark_Pictures_Anthology_Season_one_Packshot__13296.1680082390.jpg?c=1"  width="200px" height="250px" >
 
  <img src="https://i.blogs.es/fd8f41/little-hope/1366_2000.jpeg"  width="420px" height="250px" >
+
+"The Dark Pictures" és una sèrie de videojocs d'aventura gràfica d'horror interactiva, desenvolupada per Supermassive Games i publicada per Bandai Namco Entertainment. Cada joc dins de la sèrie és un títol independent amb les seves pròpies històries, personatges i ambientacions, encara que tots comparteixen elements de joc similars i un tema d'horror general.
+
+1. **Estil de Joc i Mecàniques**:
+   - Els jocs de "The Dark Pictures" són coneguts per la seva jugabilitat centrada en la narrativa, on les decisions dels jugadors afecten significativament el desenvolupament de la història i el destí dels personatges. 
+   - El joc incorpora elements d'elecció i conseqüència, on els jugadors han de prendre decisions ràpides que poden ser qüestió de vida o mort.
+   - També inclouen seqüències d'exploració, resolució de trencaclosques i ocasions on el jugador ha de realitzar accions rítmiques per aconseguir objectius específics.
+
+2. **Gràfics i Presentació**:
+   - Els jocs de la sèrie es distingeixen pel seu alt nivell de detall gràfic, amb un gran èmfasi en la creació d'una atmosfera tensa i inquietant.
+   - Fan ús de tecnologia avançada de captura de moviment i actuació per aportar un realisme impressionant als personatges i les seves interaccions.
+
+3. **Narrativa i Temes**:
+   - Cada títol de la sèrie explora diferents històries d'horror, inspirades en una varietat de fonts, incloent llegendes urbanes, història, i pel·lícules d'horror clàssiques.
+   - Els temes tractats són variats, des d'històries de fantasmes i criatures sobrenaturals fins a trames psicològiques i misteris.
+
+4. **Recepció i Influència**:
+   - Els jocs han rebut una recepció mixta tant per part de la crítica com dels jugadors, amb lloances pel seu estil narratiu i atmosfera, però també crítiques per alguns elements de jugabilitat i inconsistències en la història.
+   - La sèrie ha estat influent en popularitzar el format de videojoc d'horror narratiu i interactiu, inspirant altres desenvolupadors a explorar mecàniques similars.
+
+En resum, "The Dark Pictures" ofereix una experiència d'horror única, combinant narrativa profunda amb jugabilitat centrada en les decisions. Encara que els jocs tenen les seves debilitats, segueixen sent una aportació notable al gènere de l'horror en els videojocs.
+
+
+
+El videojoc "The Dark Pictures", una sèrie d'aventures gràfiques d'horror de Supermassive Games, es pot analitzar des de la perspectiva del teòric de mitjans digitals Lev Manovich. En el seu llibre "El Llenguatge dels Nous Mitjans", Manovich parla sobre els principis dels mitjans digitals, incloent la selecció, la componibilitat, la variabilitat, l'automatització i la transculturalitat. Aquests conceptes són aplicables a "The Dark Pictures" de diverses maneres:
+
+1. **Selecció i Variabilitat**:
+   - Manovich descriu la selecció com una característica clau dels nous mitjans, on els usuaris poden triar diferents camins o opcions. Això es manifesta en "The Dark Pictures" a través de les decisions crítiques que els jugadors han de prendre, afectant l'argument i els resultats del joc. Això es vincula també amb la variabilitat, ja que cada elecció porta a diferents variacions en la història i els destins dels personatges.
+
+2. **Componibilitat**:
+   - Aquest concepte es refereix a la naturalesa modular dels nous mitjans. En "The Dark Pictures", aquesta componibilitat es pot veure en la forma en què els elements narratius i de jugabilitat són combinats i reorganitzats per crear experiències úniques per a cada jugador.
+
+3. **Automatització**:
+   - Manovich parla de l'automatització en relació amb la capacitat dels nous mitjans per generar, manipular o modificar automàticament objectes mitjançant algoritmes. En "The Dark Pictures", això pot ser exemplificat pel sistema de joc que automàticament ajusta els esdeveniments i les reaccions dels personatges basant-se en les accions del jugador.
+
+4. **Transculturalitat**:
+   - Manovich destaca la importància de la transculturalitat en els nous mitjans, on elements de diferents cultures es poden barrejar i combinar. Això es pot veure en "The Dark Pictures" a través de la seva inclusió de temes, històries i mites de diverses cultures, així com l'ús de diferents estils visuals i narratius.
+
+En conclusió, l'anàlisi de "The Dark Pictures" des de la perspectiva de Lev Manovich subratlla com la sèrie de videojocs exemplifica els principis dels nous mitjans. La sèrie no només proporciona una experiència d'entreteniment interactiva i immersiva, sinó que també serveix com a cas d'estudi per a la comprensió de la teoria dels nous mitjans en la pràctica del disseny de videojocs.
+
+
  
 </details>
 
