@@ -95,29 +95,29 @@ En resum, la clau per reconèixer l'hibridació en els nous mitjans és estar at
 ## Re-descobrint l'hibridació: 
 
 <details>
- <summary style="font-size:60px;">Sèrie de videojocs The Dark Pictures.</summary>
+ <summary>Sèrie de videojocs The Dark Pictures</summary>
  <br>  
- <img src="https://cdn11.bigcommerce.com/s-k0hjo2yyrq/images/stencil/1280x1280/products/1403/1037/The_Dark_Pictures_Anthology_Season_one_Packshot__13296.1680082390.jpg?c=1"  width="200px" height="250px" >
+ <img src="https://cdn11.bigcommerce.com/s-k0hjo2yyrq/images/stencil/1280x1280/products/1403/1037/The_Dark_Pictures_Anthology_Season_one_Packshot__13296.1680082390.jpg?c=1" width="200px" height="250px" >
 
  <img src="https://i.blogs.es/fd8f41/little-hope/1366_2000.jpeg"  width="420px" height="250px" >
 
 Hibridació de cinema amb videojocs.
 
-"The Dark Pictures" és una sèrie de videojocs d'aventura gràfica de terror on el jugador haura de pendre desicions que afectaran significativament el desenvolupament de la seva trama.
+"The Dark Pictures" és una sèrie de videojocs d'aventura gràfica de terror on el jugador haurà de prendre decisions que afectaran significativament el desenvolupament de la seva trama.
 
-Desenvolupats per Supermassive Games i publicats per Bandai Namco. Cada joc dins de la sèrie és un títol independent, cadascun te les seves pròpies històries, personatges i ambientacions, pero amb un element comu que es l'interacció i un tema d'horror general.
-Aquets videojocs es centren principalment en la narrativa com si d'una pelicula es tractes, oferint molts dialegs entre els personatges i opcions en les preses de decisions que poden ser de vida o mort per al personatge
+Desenvolupats per Supermassive Games i publicats per Bandai Namco. Cada joc dins de la sèrie és un títol independent, cadascun té les seves pròpies històries, personatges i ambientacions, però amb un element comú que és la interacció i un tema d'horror general.
+Aquests videojocs se centren principalment en la narrativa com si es tractés d'una pel·lícula, oferint molts diàlegs entre els personatges i opcions en les preses de decisions que poden ser de vida o mort per al personatge.
 
-L'atre mecanica que tenen es la part d'exploració, on haurem de controlar el personatge on s'hauran de resoldre trencaclosques.
-Els personatges del videojoc son actors reals que han sigut modelats digitalment, donant encara mes sensació d'estar veient una pelicula en ves de estar veient un videojoc.
+L'altra mecànica que tenen és la part d'exploració, on haurem de controlar el personatge on s'hauran de resoldre trencaclosques.
+Els personatges del videojoc són actors reals que han sigut modelats digitalment, fent encara més sensació d'estar veient una pel·lícula en comptes d'estar veient un videojoc.
 
-"The Dark Pictures" ofereix una experiencia d'horror única, combinant una gran narratica i amb una jugabilitat centrada en la presa de decisions. Personalment no he jugat a aquets titols pero si a jocs similars com ara "Until Dawn", "The Walking Dead" (TellTale), Detroid: Become Human, "Heavy Rain", etc.
+"The Dark Pictures" ofereix una experiència d'horror únic, combinant una gran narrativa i amb una jugabilitat centrada en la presa de decisions. 
 
 #### Conclusió
-"The Dark Pictures" des de la perspectiva de Lev Manovich subratlla com la sèrie de videojocs exemplifica els principis dels nous mitjans. La sèrie no només proporciona una experiència d'entreteniment interactiva i immersiva, sinó que també serveix com a cas d'estudi per a la comprensió de la teoria dels nous mitjans en la pràctica del disseny de videojocs.
+"The Dark Pictures" des de la perspectiva de Lev Manovich la sèrie de videojocs és un clar exemple d'hibridació en els nous mitjans, combinant correctament el món del cinema amb el dels videojocs oferint una experiència d'entreteniment immersiva i interactiva única.
 
+Personalment, no hi he jugat a aquests títols, però sí a jocs similars com ara "Until Dawn", "The Walking Dead" (TellTale), Detroid: Become Human, "Heavy Rain", etc. Són videojocs que ofereixen una experiència narrativa bastant profunda i una gran jugabilitat, ja que es pot tornar a jugar per veure que passa si triem altres decisions durant el transcurs de la història.
 
- 
 </details>
 
 
