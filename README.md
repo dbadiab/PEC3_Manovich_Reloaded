@@ -119,36 +119,15 @@ Personalment, no hi he jugat a aquests títols, però sí a jocs similars com ar
  <br>
  <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"  width="400px" height="180px">
  <img src="https://gorealgames.com/wp-content/uploads/2022/05/unity-editor-1.jpeg"  width="420px" height="180px">
-
-
-La plataforma Unity es una eina per al desenvolupament de videojocs en 2D o 3D, pero ha anat mes enlla, amb el temps s'ha convertit en una eina versatil per a la creació d'entorns digitals interectius i aplicacions.
-
-La creació de móns virtuals ha transcendit les seves pròpies fronteres, obrint pas a noves oportunitats i experiències a través de la intersecció digital. En aquesta revolució, emergeix com una figura destacada Unity, una plataforma que va més enllà del simple desenvolupament de jocs per convertir-se en una eina versàtil per a la creació d'entorns digitals interactius.
-
-El Llenguatge Universal de la Creació Digital
-
-Unity actua com un llenguatge universal que transcendeix les barreres culturals i lingüístiques. Mitjançant una interfície visual intuitiva i eines potents, permet als creadors plasmar la seva imaginació en un món virtual compartit. Des de desenvolupadors de jocs fins a artistes visuals, Unity s'ha convertit en la paleta digital on es poden barrejar les tintes de la creativitat.
-
-Un Punt de Trobada entre la Ciència i l'Art
-
-A través de la lupa conceptual de Manovich, es pot apreciar com Unity es converteix en una intersecció entre la ciència i l'art digital. Els desenvolupadors utilitzen algoritmes complexos per crear simulacions realistes, mentre que els artistes exploren noves formes d'expressió visual. La seva naturalesa multidisciplinària converteix Unity en un camp de joc on els límits entre la lògica i la creativitat es difuminen.
-
-La Democràcia de la Creació Digital
-
-La facilitat d'ús de Unity fa que la creació digital sigui accessible a tothom, des de novells fins als veterans experimentats. Amb tutorials interactius i una comunitat activa, les "ulleres de Manovich" revelen un paisatge on la creació digital ja no és l'atzar d'uns pocs experts, sinó una oportunitat per a tothom per explorar i expressar-se.
-
-Més Enllà dels Jocs: L'Aplicació Universal de Unity
-
-Mentrestant, l'impacte d'Unity no es limita als jocs. La seva adaptabilitat s'estén a aplicacions educatives, simulacions empresarials i altres àmbits. A través d'aquesta visió, veiem com Unity es converteix en un conductor per a la innovació, connectant disciplines i obrint portes a noves formes d'aprenentatge i resolució de problemes.
-
-La Transformació Social a través de la Realitat Virtual
-
-Les funcions de realitat virtual de Unity transcendeixen la mera immersió per obrir la porta a noves formes d'activisme i conscienciació social. A través de les "ulleres de Manovich", veiem com aquesta plataforma no només crea universos digitals, sinó que també promou la reflexió i la consciència envers qüestions crucials de la nostra societat.
-
-En resum, Unity no és simplement una eina de desenvolupament, sinó un portal cap a la creació i la connectivitat. A través de les "ulleres de Manovich", vislumbrem un futur on la creació digital no és només una expressió artística, sinó una part integral de la nostra experiència quotidiana.
+Hibridació de programació amb diseny de videojocs i aplicacions multimedia.
 
 
 
+
+
+El motor Unity es una eina versatil i potent per al desenvolupament de videojocs en 2D o 3D, pero ha anat mes enlla, amb el temps s'ha convertit en una eina versatil per a la creació d'entorns digitals interectius i aplicacions.
+
+---
 
 "Unity" és un motor de joc potent i versàtil, àmpliament utilitzat en el desenvolupament de videojocs i aplicacions interactives. La seva popularitat i eficàcia es basen en diverses característiques i funcionalitats clau. En aquest assaig, examinarem els aspectes principals de Unity, la seva importància en la indústria dels videojocs i les seves aplicacions en diferents àrees.
 
@@ -184,8 +163,6 @@ Unity ha revolucionat el món del desenvolupament de videojocs, oferint una plat
 </details>
 
 
-
-
 ## Referencies i bibliografía.
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
@@ -199,10 +176,12 @@ https://es.wikipedia.org/wiki/Unity_(motor_de_videojuego)
 * **Vandal**, Youtube, [consulta: 07/12/2023]. ANÁLISIS MAN of MEDAN (PS4, XBOne, PC) TERRORÍFICAMENTE DIVERTIDO, de los creadores de UNTIL DAWN. <br>
 https://www.youtube.com/watch?v=4CeneAMji2w
 
+* **González Valenzuela, Carolina**, computerhoy, [consulta: 07/12/2023]. ¿Qué es Unity y a qué debe su popularidad como motor de desarrollo de videojuegos? <br>
+https://computerhoy.com/reportajes/tecnologia/unity-debe-popularidad-como-motor-desarrollo-videojuegos-1031065
+
+
 
 https://www.rawpixel.com/image/5925774/photo-image-background-public-domain-blue
-
-
 
 
 ----
