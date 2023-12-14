@@ -23,6 +23,10 @@ Amb els actuals avanços tecnològics i de la digitalització, han permès la un
 L'objectiu de la hibridació es crear una experiencia mes dinamica, podent adaptarse a les necessitats dels usuaris.
 
 
+
+
+
+
 Distinguir entre diferents tipus de mitjans en un context d'hibridació pot ser un repte, ja que la fusió de formats tendeix a esborrar les fronteres clàssiques. Tanmateix, hi ha algunes característiques que ens poden ajudar a identificar els diferents mitjans en un entorn híbrid:
 
 1. **Format Visual**: Els mitjans visuals inclouen televisió, cinema, i vídeos en línia. Són fàcilment reconeixibles pel seu enfocament en imatges en moviment. En un entorn híbrid, els vídeos poden estar integrats en pàgines web o en publicacions de xarxes socials.
@@ -38,6 +42,54 @@ Distinguir entre diferents tipus de mitjans en un context d'hibridació pot ser 
 6. **Interactivitat**: Un dels aspectes clau de l'hibridació és la interactivitat, especialment en plataformes digitals. Els mitjans interactius permeten als usuaris influir en el contingut o en el curs de la narrativa, com en els videojocs o en certes aplicacions web.
 
 Per a una anàlisi més detallada, és útil observar no només el format del contingut, sinó també el context en què es presenta i la manera com els usuaris interactuen amb ell. En el món digital actual, la línia entre aquests diferents mitjans s'està fent cada vegada més difusa, donant lloc a noves formes de comunicació i expressió.
+
+
+
+
+
+L'hibridació en els nous mitjans es refereix a la fusió i interacció de diferents formes de mitjans, tecnologies i disciplines artístiques. Aquest concepte, sovint discutit en el context de la teoria dels nous mitjans, implica la combinació de tradicionals i digitals, així com la intersecció de diferents àrees de coneixement i pràctica. Les formes d'hibridació en els nous mitjans inclouen:
+
+    Multimèdia: La combinació de text, so, imatges, animacions i vídeo en una única peça de contingut. Això permet una experiència més rica i immersiva que la que pot oferir un sol mitjà.
+
+    Realitat Augmentada (RA) i Realitat Virtual (RV): Aquests mitjans combinen el món real amb elements digitals (RA) o submergeixen completament l'usuari en un entorn digital (RV), creant experiències híbrides que barregen la realitat física i la digital.
+
+    Art Transmèdia: Aquesta forma d'art implica contar històries o crear experiències que s'estenen a través de múltiples plataformes i formats, combinant elements com la narració digital, el joc, l'art visual, el teatre i més.
+
+    Interactivitat en el Web: L'hibridació també es veu en la manera en què els nous mitjans combinen aspectes de comunicació, interacció social i funcionalitats de navegació en entorns web.
+
+    Tecnologies de la Informació i la Comunicació: La integració de la informàtica, les telecomunicacions i la radiodifusió, aportant una convergència de mitjans com la televisió, la ràdio, els ordinadors i les xarxes d'internet.
+
+    Art i Ciència: La col·laboració entre artistes i científics per crear obres que combinen estètica, experimentació tecnològica i investigació científica.
+
+    Xarxes Socials i Blogging: Plataformes que combinen elements de redacció, periodisme, comunicació interpersonal i difusió de mitjans.
+
+    Jocs Digitals i Educatius: Combina elements de joc, aprenentatge i tecnologia, creant experiències educatives interactives i immersives.
+
+Aquestes hibridacions reflecteixen com els nous mitjans estan redefinint les fronteres entre diferents formes d'expressió i comunicació, permetent la creació de noves formes d'art, entreteniment i interacció social.
+
+
+reconeixe hibridacio
+
+
+Reconèixer l'hibridació en els nous mitjans implica identificar elements o característiques que pertanyen a diferents mitjans, tecnologies, o disciplines i que han estat fusionats per crear una nova forma d'expressió o comunicació. Aquí teniu algunes pautes per reconèixer aquestes hibridacions:
+
+1. **Combinació de Diferents Formes de Mitjans**: Busqueu la presència de múltiples formats de mitjans en una sola obra o plataforma. Per exemple, un lloc web que incorpora vídeo, àudio, text i interactivitat.
+
+2. **Utilització de Tecnologies Avançades**: Observeu si el producte utilitza tecnologies com la realitat augmentada (RA) o la realitat virtual (RV), que combinen el món digital amb l'experiència física.
+
+3. **Interactivitat**: Comproveu si l'usuari pot interactuar o influir en el contingut o l'experiència. Això és comú en jocs digitals, aplicacions interactives, i plataformes de xarxes socials.
+
+4. **Formats Transmèdia**: Identifiqueu si la història, la marca o el concepte s'estén a través de múltiples plataformes o formats, com llibres, pel·lícules, jocs i xarxes socials, creant una experiència narrativa més gran.
+
+5. **Elements Artístics Integrats amb Ciència o Tecnologia**: Busqueu obres que combinen l'art visual o la música amb elements científics o tecnològics, com instal·lacions artístiques que utilitzen sensors o programari d'ordinador.
+
+6. **Estètica Visual o Conceptual Única**: Fixeu-vos en si l'estètica o el concepte de l'obra desafien les convencions tradicionals, suggerint una fusió de diferents disciplines artístiques o estils.
+
+7. **Col·laboracions Interdisciplinàries**: En el cas de projectes grans, mireu qui està darrere del projecte. La presència de professionals de diferents camps (com artistes, programadors, científics, dissenyadors) pot ser un indicador d'hibridació.
+
+8. **Contingut Educatiu i de Joc**: Si una plataforma o aplicació combina l'aprenentatge amb elements de joc, probablement està utilitzant hibridació per millorar l'experiència educativa.
+
+En resum, la clau per reconèixer l'hibridació en els nous mitjans és estar atent a la fusió i interacció de diferents mitjans, disciplines, i tecnologies, creant així una experiència o forma d'expressió que és distintiva i sovint innovadora.
 
 
 ## Re-descobrint l'hibridació: 
