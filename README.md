@@ -9,12 +9,6 @@ Data: 09/12/2023
 
 <hr>
 
-Com es pot reconèixer una d'aquestes hibridacions? Com distingir-ne d'altres (multimèdia/remediació)?
-Cas escollit (Com funciona i mitjans que incorpora)
-Quina mena d'hibridació es pot identificar en aquest cas? (segons Manovich)
-Valoracions personals i bibliografia
-
-
 ## Introducció.
 
 La hibridació en els nous mitjans es refereix a la fusió de diferents formes de mitjans de comunicació i tecnologies.
@@ -98,7 +92,6 @@ En resum, la clau per reconèixer l'hibridació en els nous mitjans és estar at
  <summary>Sèrie de videojocs The Dark Pictures</summary>
  <br>  
  <img src="https://cdn11.bigcommerce.com/s-k0hjo2yyrq/images/stencil/1280x1280/products/1403/1037/The_Dark_Pictures_Anthology_Season_one_Packshot__13296.1680082390.jpg?c=1" width="200px" height="250px" >
-
  <img src="https://i.blogs.es/fd8f41/little-hope/1366_2000.jpeg"  width="420px" height="250px" >
 
 Hibridació de cinema amb videojocs.
@@ -122,11 +115,11 @@ Personalment, no hi he jugat a aquests títols, però sí a jocs similars com ar
 
 
 <details>
- <summary>Unity.</summary>
+ <summary>Unity</summary>
  <br>
  <img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"  width="400px" height="180px">
-
  <img src="https://gorealgames.com/wp-content/uploads/2022/05/unity-editor-1.jpeg"  width="420px" height="180px">
+
 
 La plataforma Unity es una eina per al desenvolupament de videojocs en 2D o 3D, pero ha anat mes enlla, amb el temps s'ha convertit en una eina versatil per a la creació d'entorns digitals interectius i aplicacions.
 
@@ -153,22 +146,65 @@ La Transformació Social a través de la Realitat Virtual
 Les funcions de realitat virtual de Unity transcendeixen la mera immersió per obrir la porta a noves formes d'activisme i conscienciació social. A través de les "ulleres de Manovich", veiem com aquesta plataforma no només crea universos digitals, sinó que també promou la reflexió i la consciència envers qüestions crucials de la nostra societat.
 
 En resum, Unity no és simplement una eina de desenvolupament, sinó un portal cap a la creació i la connectivitat. A través de les "ulleres de Manovich", vislumbrem un futur on la creació digital no és només una expressió artística, sinó una part integral de la nostra experiència quotidiana.
+
+
+
+
+"Unity" és un motor de joc potent i versàtil, àmpliament utilitzat en el desenvolupament de videojocs i aplicacions interactives. La seva popularitat i eficàcia es basen en diverses característiques i funcionalitats clau. En aquest assaig, examinarem els aspectes principals de Unity, la seva importància en la indústria dels videojocs i les seves aplicacions en diferents àrees.
+
+**1. Introducció a Unity**:
+   - Unity és un motor de joc desenvolupat per Unity Technologies, llançat per primera vegada el 2005. Des de llavors, ha evolucionat per convertir-se en una de les plataformes de desenvolupament més populars tant per a desenvolupadors independents com per a grans estudis.
+
+**2. Característiques Clau**:
+   - **Multiplataforma**: Una de les principals fortaleses de Unity és la seva capacitat per exportar jocs a una àmplia gamma de plataformes, incloent PC, consoles, dispositius mòbils i plataformes de realitat virtual i augmentada.
+   - **Motor Gràfic**: Unity disposa d'un potent motor gràfic que suporta gràfics 2D i 3D, amb una àmplia gamma d'eines i funcions per a la renderització, l'il·luminació i l'ombra.
+   - **Interfície d'Usuari Amigable**: La seva interfície d'usuari és intuïtiva, facilitant als desenvolupadors l'accés a funcions complexes sense necessitat d'un profund coneixement de programació.
+
+**3. Programació i Personalització**:
+   - Unity utilitza C# com a llenguatge de programació, que és àmpliament conegut per la seva potència i versatilitat. Això permet als desenvolupadors crear lògiques de joc complexes i personalitzar completament els seus projectes.
+
+**4. Comunitat i Suport**:
+   - Una gran comunitat de desenvolupadors i una extensa biblioteca de recursos, com ara tutorials, fòrums i documentació, fan de Unity una plataforma accessible per a novells i experts.
+
+**5. Asset Store**:
+   - Unity compta amb una botiga d'assets en línia on els desenvolupadors poden comprar i vendre assets de joc, com models 3D, textures, scripts, i més, facilitant així el desenvolupament ràpid de jocs.
+
+**6. Aplicacions Més Enllà dels Jocs**:
+   - A més dels videojocs, Unity s'utilitza en la creació de simulacions, experiències de realitat augmentada i virtual, visualitzacions arquitectòniques, i formació i educació.
+
+**7. Impacte en la Indústria dels Jocs**:
+   - Unity ha jugat un paper crucial en la democratització del desenvolupament de jocs, permetent a petits estudis i desenvolupadors independents crear jocs d'alta qualitat amb recursos limitats.
+
+**8. Desafiaments i Limitacions**:
+   - Malgrat la seva versatilitat, Unity té limitacions, com ara la necessitat de gestió eficient de recursos per optimitzar el rendiment en plataformes més limitades, com els dispositius mòbils.
+
+**Conclusió**:
+Unity ha revolucionat el món del desenvolupament de videojocs, oferint una plataforma robusta i accessible que equilibra la potència i la facilitat d'ús. La seva capacitat per adaptar-se a diversos gèneres de jocs i aplicacions interdisciplinàries la converteix en una eina indispensable en el món dels nous mitjans digitals. A mesura que la tecnologia avança, és probable que Unity continuï evolucionant i expandint les seves capacitats per satisfer les necessitats creixents de la indústria dels videojocs i més enllà.
+
 </details>
 
 
-### Referencies i bibliografía.
+
+
+## Referencies i bibliografía.
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
   
-* **The Dark Pictures: Man of Medan**, Wikipedia: l’enciclopèdia lliure, [consulta: 05/10/2023]. Disponible a:
+* **The Dark Pictures: Man of Medan**, Wikipedia: l’enciclopèdia lliure, [consulta: 07/12/2023]. Disponible a:
 https://es.wikipedia.org/wiki/The_Dark_Pictures:_Man_of_Medan
 
-* **Unity**, Wikipedia: l’enciclopèdia lliure, [consulta: 05/10/2023]. Disponible a: <br>
+* **Unity**, Wikipedia: l’enciclopèdia lliure, [consulta: 07/12/2023]. Disponible a: <br>
 https://es.wikipedia.org/wiki/Unity_(motor_de_videojuego)
+
+* **Vandal**, Youtube, [consulta: 07/12/2023]. ANÁLISIS MAN of MEDAN (PS4, XBOne, PC) TERRORÍFICAMENTE DIVERTIDO, de los creadores de UNTIL DAWN. <br>
+https://www.youtube.com/watch?v=4CeneAMji2w
+
 
 https://www.rawpixel.com/image/5925774/photo-image-background-public-domain-blue
 
-https://www.youtube.com/watch?v=4CeneAMji2w
+
+
+
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
