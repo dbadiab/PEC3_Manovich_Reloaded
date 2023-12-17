@@ -78,6 +78,7 @@ Personalment, el faig servir en el meu temps lliure i he de dir que és una eina
 
 </details>
 
+<hr>
 
 ## Referencies i bibliografía.
 
