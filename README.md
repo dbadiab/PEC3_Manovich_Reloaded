@@ -11,12 +11,7 @@ Data: 18/12/2023
 
 La hibridació en els nous mitjans es refereix a la fusió de diferents formes de mitjans de comunicació i tecnologies.
 Amb els actuals avanços tecnològics i de la digitalització, han permès la unió de diverses plataformes que anteriorment funcionaven de manera independent.
-
-L'objectiu de la hibridació es crear una experiencia mes dinamica, podent adaptarse a les necessitats dels usuaris.
-
-
-
-
+L'objectiu de la hibridació es crear una experiencia mes dinamica, podent adaptarse a les noves necessitats dels usuaris.
 
 
 
